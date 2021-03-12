@@ -19,6 +19,6 @@ we'll see if we can figure it out together.
 I am requesting verification of a [new | existing] group. The group name is: 
 
 - [ ] This group is a [reverse-domain-based group](https://github.com/clojars/clojars-web/wiki/Verified-Group-Names#faq)
-- [ ] I have added a TXT DNS record for the domain that has a value of `clojars-<the id of this issue> <your clojars username>'
+- [ ] I have added a TXT DNS record for the domain that has a value of `clojars <your clojars username>`
 
 
