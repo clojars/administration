@@ -1,5 +1,5 @@
 ---
-name: Group Verification
+name: Group Verification/New Group Creation
 about: Requesting verification of a new or existing group name
 ---
 
