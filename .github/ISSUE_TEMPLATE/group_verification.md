@@ -16,9 +16,12 @@ we'll see if we can figure it out together.
 
 -->
 
-I am requesting verification of a [new | existing] group. The group name is: 
+I am requesting verification of a [new | existing] group. The group name is: <group name here>
 
 - [ ] This group is a [reverse-domain-based group](https://github.com/clojars/clojars-web/wiki/Verified-Group-Names#faq)
 - [ ] I have added a TXT DNS record for the domain that has a value of `clojars <your clojars username>`
 
+Or:
 
+- [ ] This group is based on a GitHub or GitLab organization (ex: https://github.com/foo -> `io.github.foo`)
+- [ ] I have created a public repository under that group named `clojars-<your clojars username>`
