@@ -25,5 +25,5 @@ I am requesting verification of a [new | existing] group. The group name is: <gr
 Or:
 
 - [ ] I have read the [FAQ](https://github.com/clojars/clojars-web/wiki/Verified-Group-Names#faq)
-- [ ] This group is based on a GitHub or GitLab organization, and I want to verify a reverse-domain-based group based on that organization (ex: https://github.com/foo -> `com.github.com` / `io.github.foo`)
+- [ ] This group is based on a GitHub or GitLab organization, and I want to verify a reverse-domain-based group based on that organization (ex: https://github.com/foo -> `com.github.foo` / `io.github.foo`)
 - [ ] I have created a public repository under that group named `clojars-<your clojars username>`, and provided a link to that repository
