@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Group Verification
+    url: https://clojars.org/verify/group
+    about: Group verifications are now self-service on clojars.org.
